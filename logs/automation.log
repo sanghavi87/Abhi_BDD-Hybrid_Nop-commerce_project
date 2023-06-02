@@ -1,0 +1,22 @@
+20:29:57.671 [main] INFO  StepDefinitions.Steps - *** Clicked on Login *** 
+20:33:21.352 [main] INFO  StepDefinitions.Steps - *** Clicked on Login *** 
+20:33:21.399 [main] INFO  StepDefinitions.Steps - *** validate the login page *** 
+20:33:22.693 [main] INFO  StepDefinitions.Steps - *** Clicked on Login submit button *** 
+20:35:02.768 [main] INFO  StepDefinitions.Steps - *** Login Failed ***
+21:20:47.887 [main] INFO  StepDefinitions.Steps - Clicked on register link
+21:20:47.912 [main] INFO  StepDefinitions.Steps - ***** AccountRegistrationTest *****
+21:20:47.917 [main] INFO  StepDefinitions.Steps - Providing customer data
+21:20:51.083 [main] INFO  StepDefinitions.Steps - Clicked on Register button
+21:20:51.086 [main] INFO  StepDefinitions.Steps - Validating expected message
+21:27:32.328 [main] INFO  StepDefinitions.Steps - Clicked on register link
+21:27:32.353 [main] INFO  StepDefinitions.Steps - ***** AccountRegistrationTest *****
+21:27:32.357 [main] INFO  StepDefinitions.Steps - Providing customer data
+21:27:35.610 [main] INFO  StepDefinitions.Steps - Clicked on Register button
+21:27:35.614 [main] INFO  StepDefinitions.Steps - Validating expected message
+21:27:35.716 [main] INFO  StepDefinitions.Steps - ***  Finished AccountRegistrationTest ***
+00:44:25.019 [main] INFO  StepDefinitions.Steps - Clicked on register link
+00:44:25.031 [main] INFO  StepDefinitions.Steps - ***** AccountRegistrationTest *****
+00:44:25.035 [main] INFO  StepDefinitions.Steps - Providing customer data
+00:44:28.338 [main] INFO  StepDefinitions.Steps - Clicked on Register button
+00:44:28.344 [main] INFO  StepDefinitions.Steps - Validating expected message
+00:44:28.440 [main] INFO  StepDefinitions.Steps - ***  Finished AccountRegistrationTest ***

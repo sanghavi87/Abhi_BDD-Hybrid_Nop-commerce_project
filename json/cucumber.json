@@ -1,0 +1,125 @@
+[
+  {
+    "line": 1,
+    "elements": [
+      {
+        "line": 2,
+        "name": "",
+        "description": "",
+        "type": "background",
+        "keyword": "Background",
+        "steps": [
+          {
+            "result": {
+              "duration": 9065031800,
+              "status": "passed"
+            },
+            "line": 3,
+            "name": "User able to open Browser",
+            "match": {
+              "location": "Steps.user_able_to_open_Browser()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 1677575100,
+              "status": "passed"
+            },
+            "line": 4,
+            "name": "Enter an Url",
+            "match": {
+              "location": "Steps.enter_an_Url()"
+            },
+            "keyword": "And "
+          }
+        ]
+      },
+      {
+        "before": [
+          {
+            "result": {
+              "duration": 1595248600,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Steps.setup()"
+            }
+          }
+        ],
+        "line": 7,
+        "name": "NopCommerce Registration with valid details",
+        "description": "",
+        "id": "nopcommerce-register;nopcommerce-registration-with-valid-details",
+        "after": [
+          {
+            "result": {
+              "duration": 898589400,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Steps.tearDown(Scenario)"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 1391678400,
+              "status": "passed"
+            },
+            "line": 8,
+            "name": "User Click on Register btn on homePage",
+            "match": {
+              "location": "Steps.user_Click_on_Register_btn_on_homePage()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 2268165400,
+              "status": "passed"
+            },
+            "line": 9,
+            "name": "User able to enter personal details",
+            "match": {
+              "location": "Steps.user_able_to_enter_personal_details()"
+            },
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "duration": 1037475500,
+              "status": "passed"
+            },
+            "line": 10,
+            "name": "click on Register btn submit",
+            "match": {
+              "location": "Steps.click_on_Register_btn_submit()"
+            },
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "duration": 103899900,
+              "status": "passed"
+            },
+            "line": 11,
+            "name": "User able to see confirmation message",
+            "match": {
+              "location": "Steps.user_able_to_validate_MyAccountPage()"
+            },
+            "keyword": "Then "
+          }
+        ]
+      }
+    ],
+    "name": "NopCommerce Register",
+    "description": "",
+    "id": "nopcommerce-register",
+    "keyword": "Feature",
+    "uri": "C:/Users/abhis/IdeaProjects/Abhi_BDD-Hybrid_NopCommerce_Project/src/test/resources/Features/Register.feature"
+  }
+]
